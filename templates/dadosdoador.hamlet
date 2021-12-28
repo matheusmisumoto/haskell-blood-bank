@@ -1,0 +1,20 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center">
+        Dados do Doador
+    <div class="card mt-5">
+        <div class="card-body">
+            <h2 class="card-title text-center mb-5">
+                #{doadorNome doador}
+            <p>
+                <strong>
+                    CPF:
+                #{doadorCpf doador}
+            <p>
+                <strong>
+                    Idade:
+                #{doadorIdade doador} anos
+            <p>
+                <strong>
+                    Tipo Sanguíneo:
+                #{doadorTipoS doador}#{doadorRh doador}
+            

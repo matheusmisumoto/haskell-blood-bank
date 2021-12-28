@@ -1,0 +1,25 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center">
+        Listar Usuários
+    <div class="card mt-5">
+        <div class="card-body">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>
+                        E-mail
+                    <th>
+
+                    <th>
+                    
+                <tbody>
+                    $forall Entity uid hosp <- hospitais
+                        <tr>
+                            <td class="align-middle">
+                                    #{usuarioHEmail hosp}
+                            <td class="align-middle">
+                                <button class="btn btn-secondary" onclick="window.location.href='@{EditarhR uid}';">
+                                    Editar
+                            <td class="align-middle">
+                                <form method="post" action="@{ApagarhR uid}">
+                                    <input type="submit" class="btn btn-danger" value="X">

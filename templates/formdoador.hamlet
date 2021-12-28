@@ -1,0 +1,8 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center">
+        Cadastrar Doador
+    <div class="card mt-5">
+        <div class="card-body">
+            <form action="@{CadastrardR}" method="post">
+                ^{widget}
+                <input type="submit" class="btn btn-primary container-fluid py-2 mt-2" value="Cadastrar">

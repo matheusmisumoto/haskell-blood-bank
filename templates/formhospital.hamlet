@@ -1,0 +1,6 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center">
+        Cadastrar Usuário
+    <form action="@{CadastrarhR}" method="post">
+        ^{widget}
+        <input type="submit" class="btn btn-primary container-fluid py-2 mt-2" value="Cadastrar">

@@ -1,0 +1,19 @@
+Doador
+    nome  Text
+    cpf   Text
+    idade Int
+    tipoS Text
+    rh    Text
+    deriving Show
+
+UsuarioH
+    email   Text
+    senha   Text
+    UniqueEmail email
+    deriving Show
+
+Agenda
+    doador    DoadorId
+    hospital  Text
+    dtColeta  Day
+    deriving Show

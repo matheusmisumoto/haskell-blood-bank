@@ -1,0 +1,6 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center mb-5">
+        Login
+    <form action="@{AutR}" method="post">
+        ^{widget}
+        <input type="submit" class="btn btn-primary container-fluid py-2 mt-2" value="Entrar">

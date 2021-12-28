@@ -1,0 +1,26 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center">
+        Agendamento de Doação - Nova Coleta
+    <div class="card mt-5">
+        <div class="card-body">
+            <h2 class="card-title text-center mb-5">
+                Dados do doador
+            <p>
+                <strong>
+                    Nome:
+                #{doadorNome doador}
+            <p>
+                <strong>
+                    CPF:
+                #{doadorCpf doador}
+            <p>
+                <strong>
+                    Idade:
+                #{doadorIdade doador} anos
+            <p>
+                <strong>
+                    Tipo Sanguíneo:
+                #{doadorTipoS doador}#{doadorRh doador}
+            <form action="@{Cadastrara2R did}" method="post">
+                ^{widget}
+                <input type="submit" class="btn btn-primary container-fluid py-2 mt-2" value="Cadastrar Horário">

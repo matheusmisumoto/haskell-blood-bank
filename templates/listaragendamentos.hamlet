@@ -1,0 +1,36 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center">
+        Coletas Agendadas
+    <div class="card mt-5">
+        <div class="card-body">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>
+                        Doador
+                    <th>
+                        Tipo Sanguíneo
+                    <th>
+                        Ponto de coleta
+                    <th>
+                        Data de coleta
+                    <th>
+                    <th>
+                <tbody>
+                    $forall (Entity doadorid doador, Entity agendaid agenda) <- agendamentos
+                        <tr>
+                            <td class="align-middle">
+                                <a href=@{AgendaR agendaid}>
+                                    #{doadorNome doador}
+                            <td class="align-middle">
+                                #{doadorTipoS doador}#{doadorRh doador}
+                            <td class="align-middle">
+                                #{agendaHospital agenda}
+                            <td class="align-middle">
+                                #{show (agendaDtColeta agenda)}
+                            <td class="align-middle">
+                                <button class="btn btn-secondary" onclick="window.location.href='@{Editara2R agendaid doadorid}';">
+                                    Editar
+                            <td class="align-middle">
+                                <form method="post" action="@{ApagarAgenR agendaid}">
+                                    <input type="submit" class="btn btn-danger" value="X">

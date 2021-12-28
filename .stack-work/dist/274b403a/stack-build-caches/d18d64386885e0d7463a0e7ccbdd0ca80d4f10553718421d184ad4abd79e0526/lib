@@ -1,0 +1,96 @@
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Foundation.hs:
+  hash: 8ba2f232a2faa70b6abbfc4ac7b25acc9587b3f5cfa26445cb4a4edce68f676d
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\dadosagendamento.hamlet:
+  hash: 70b3d1ad9d4211b8d8d2a123676dcb4358b40433207a94cc22210111575c0f73
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Import\NoFoundation.hs:
+  hash: 0ea0cd195d52cc53173482ef8bc283aacafe06895e4b4a87b8c58e7d52308663
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\bancodesangue.cabal:
+  hash: b3aebee8d557841e3953a6a89a0f67963c3b93018d1245d2bc35e887dc905592
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\menu.hamlet:
+  hash: 49eabcdc742c1a63a8889ee8f177a97676253888ad70d20c97b7d7ab402c0058
+C:\Users\Matheus\AppData\Local\Programs\stack\x86_64-windows\ghc-8.10.4\lib\include\ghcversion.h:
+  hash: ddf0d2a5b1862138ade2de39566db63c5db748c6df9abc567bd8b7326ae3838a
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Settings.hs:
+  hash: ded88c52cc9077a13ed9839cc65d5668dc56c5de9b7991d35604d819cfd17cd8
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Handler\Doador.hs:
+  hash: d72d38a2bc60a4fff99fdb0186cbf3f3248d97ebf9abfbc0f2be07b475d5c86f
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Handler\Login.hs:
+  hash: 7d558f58e3b3192ce6ec0c1925b6a8c64a3fef6e176e2a27e9d8a7dd04121e64
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Settings\StaticFiles.hs:
+  hash: 0afdb84a9dbe874f41986518915d649ee4034374b74da113af679766da3264f8
+? C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\.stack-work\dist\274b403a\build\autogen\cabal_macros.h
+: hash: ce70845b28b2125f8ea5cecced967ff86c03c26f69b874402cec138c531bc067
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\menu.cassius:
+  hash: 0b6ef2ab2c1ef3342d3130380e313d6247776872d9d17261624194ec7da07f1a
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\buscardoador.hamlet:
+  hash: e501efe58eaf5fe6f4ab7e62d140045042fda10f3ada0b581a0df459a34178dd
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\home.hamlet:
+  hash: d662e78e513693645ca93a67d54f331f29d07e50a5364706e765eb028430157b
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\listaragendamentos.hamlet:
+  hash: 7e5dff64788e73208fd093779c9605e36d411ed8fa5a8ebbc8080ba42ca1bd24
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\formhospital.hamlet:
+  hash: a19bff1b99e7dd8a1b9694e2899981dbeeb70b806a9a24dbd3da2b91bbbcfd03
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\formlogin.hamlet:
+  hash: 8746bb6d7e606caf8a8d172c0d52cb0270af5ea3c73c2a4aea523d4b367487e9
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\formeditarhospital.hamlet:
+  hash: 979026b58b01d56bad51efb0cba36971256cb511f4b0549aa767b65b5a782f6e
+? C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\.stack-work\dist\274b403a\build\autogen\Paths_bancodesangue.hs
+: hash: ece329740da65d6d29b9d0eb22deb299daebdb4034da7e4a49c68b8c8a34fa9a
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Handler\FormHospital.hs:
+  hash: 59593897fd15f321c37f47880760a0926803bc50ca9f8e72f1423af313873334
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\listarhospital.hamlet:
+  hash: 19e8c39aa754c2fa8245255c3fad59ff581017c86cb460365a0245d8b2ecf876
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\package.yaml:
+  hash: 79c05255bb7bf9bdccadcf015c9e03cf83e2450f600d494b1132572747898bfb
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\config\settings.yml:
+  hash: 287b6b681fe6d120a7041cf9596d30d2db0b9be4f23c4f1e4499930e5afd0e93
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Handler\Home.hs:
+  hash: 63049df8f6cdfb3556701181d6164177ecaa6c7f187ee5519065dacd12be8a85
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Handler\Admin.hs:
+  hash: 6ef95e1990f9c52102309963560dc5e0156705533025464ac76c4e4c17621d61
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\homeAdmin.hamlet:
+  hash: d568399d0383b0ab83da7697d2baed63f98ebf62c63c887d9fcce04d87626c2f
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\formagendamento.hamlet:
+  hash: 0d9810e4059bd55d6e65d8e15a035ecd4ed97264867d89c233b661327cc03fde
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\dadosdoador.hamlet:
+  hash: d27c99cb0b49aa152d7051fc56a4dddda51015b41357d248e95b0ad0d97a45df
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Import.hs:
+  hash: cbb5e147e8b0d300e678aeed69fd48c040286f33c1bf98267eef11171943de55
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Application.hs:
+  hash: 60ad79806a322baf425d9a3a663b216981babf9d7b892884b1c8a7574fc7e306
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Handler\FormAgenda.hs:
+  hash: 772b76dae4e57df804741d5df965dff7aea6da4367ede894b439e805a68b0886
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Model.hs:
+  hash: d2788bfc0fd286bb229d99fd71805826c53db206fe31573712860b44623d3188
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\menuAdmin.hamlet:
+  hash: f15c27290c01245667e9632301abe06256bc5ecba55a350c4f21d220c2410125
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\config\routes:
+  hash: e84e1a73ac942750955774e3c7c30d0e08d7bbeda17235e17e987b24af03a431
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Handler\Agenda.hs:
+  hash: 68cec8fdd2fc849530dcfdb201948ce8c0c40ef2ebdd202e06d1a7280ecb2555
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\config\robots.txt:
+  hash: 7e28fc38624619b8f8046d91f5085e8565055d0feb27af2ebb8df20b9f6f5060
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\config\favicon.ico:
+  hash: 26f64af57709ca371fe68e50a5d915661e4aa017748983906d57d00f7fc3f748
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Handler\Common.hs:
+  hash: 95a811532352cbad27bcb239d6b729fed51f85c1632e0458a82da68732c8ef47
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\formagendamento1.hamlet:
+  hash: 78ed56d3925d9e941a209ec41c9b555d370ed78f57c4c70242284d4b22b54f65
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\listardoador.hamlet:
+  hash: 1af4f3f1e0254463b231740b168418f0bad6b152823f148559f93e28a59144a5
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\form.cassius:
+  hash: 9960daca8be8f36f0d0e05ccb47b7b1bff12a6d5852ddfebe5d783c9152b4133
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Handler\FormDoador.hs:
+  hash: 1a0f18bce5b1129137ae8d0dffd7f827d533d747ac8d5134b06beca7a80ea2d9
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\config\models:
+  hash: 5d429f771414ac578f4b4e1aeadabb7bf2f4caa2ad9dc7c53bb543c4a40ef9fa
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\formeditardoador.hamlet:
+  hash: 9bf6443d27d01da9372db6f53d2420c3f5a851190179ad687b00c40644135d34
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\footer.hamlet:
+  hash: 8b9a3c1dab318d0dce01bba76c7bc57f81b37f0f5519c00320688ef627bd2772
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\formeditaragendamento1.hamlet:
+  hash: 212124e258dbfcd975e4636ce8bde6ef8f6fedc93e5094b3f14c58caf08e940d
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\templates\formdoador.hamlet:
+  hash: 8c762ed7466f4f3d5324d6fe6abce4eccbc68119a3449c34b611a5a365bf3487
+C:\Users\Matheus\Documents\FATEC\projetos_haskell\yesod\Banco-de-Sangue\yesodvazio\src\Handler\Hospitais.hs:
+  hash: 30f1ea80ca8e4b614906e59286f9fd8bda6bdc21ea06fe795b5d66c806b83ed9
