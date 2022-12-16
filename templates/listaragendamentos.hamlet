@@ -1,0 +1,33 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center">
+        Coletas Agendadas
+    <div class="card mt-5">
+        <div class="card-body">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            Doador
+                        <th>
+                            Ponto de coleta
+                        <th>
+                            Data
+                        <th colspan="2">
+
+                <tbody>
+                    $forall (Entity doadorid doador, Entity agendaid agenda) <- agendamentos
+                        <tr>
+                            <td class="align-middle">
+                                <a href=@{AgendaR agendaid}>
+                                    #{doadorNome doador}
+                                <br>
+                               Tipo #{doadorTipoS doador}#{doadorRh doador}
+                            <td class="align-middle">
+                                #{agendaHospital agenda}
+                            <td class="align-middle">
+                                #{show (agendaDtColeta agenda)}
+                            <td class="align-middle column-actions text-end">
+                                <button class="btn btn-secondary" onclick="window.location.href='@{Editara2R agendaid doadorid}';">
+                                    Editar
+                                <form method="post" action="@{ApagarAgenR agendaid}" class="delete-button">
+                                    <input type="submit" class="btn btn-danger" value="X">

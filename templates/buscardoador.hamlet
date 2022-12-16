@@ -1,0 +1,30 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center">
+        Agendamento - Resultados da busca por CPF
+    <div class="card mt-5">
+        <div class="card-body">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            CPF
+                        <th>
+                            Nome
+                        <th>
+                            Idade
+                        <th>
+                            Tipo
+                        <th>
+                <tbody>
+                    $forall Entity did doad <- doadores
+                        <tr>
+                            <td class="align-middle">
+                                #{doadorCpf doad}
+                            <td class="align-middle">
+                                #{doadorNome doad}
+                            <td class="align-middle">
+                                #{doadorIdade doad}
+                            <td class="align-middle">
+                                #{doadorTipoS doad}#{doadorRh doad}
+                            <td class="align-middle column-actions text-end">
+                                <input type="submit" class="btn btn-primary" value="Agendar novo horário" onclick="window.location.href='@{Cadastrara2R did}';">

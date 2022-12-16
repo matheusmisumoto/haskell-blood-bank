@@ -1,0 +1,14 @@
+<footer class="container-lg mt-5">
+    <p class="text-center mb-2">
+        <small>
+            Desenvolvido por 
+            <a href="https://matheusmisumoto.dev/" target="_blank">
+                Matheus Misumoto
+            e 
+            <a href="https://github.com/MathOli" target="_blank" rel="noopener noreferrer">
+                Matheus Oliveira
+    <p class="text-center mt-1">
+        <small>
+            Repositório no
+            <a href="https://github.com/matheusmisumoto/haskell-blood-bank" target="_blank" rel="noopener noreferrer">
+                GitHub

@@ -1,0 +1,25 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center">
+        Bem-Vindo!
+    <div class="card mt-5">
+        <div class="card-body">
+            <h2 class="card-title text-center">
+                Coletas agendadas para hoje
+            <table class="table mt-5">
+                <thead>
+                    <tr>
+                        <th>
+                            Doador
+                        <th>
+                            Tipo Sanguíneo
+                        <th>
+                            Ponto de coleta
+                <tbody>
+                    $forall (Entity _ doador, Entity _ agenda) <- agendamentos
+                        <tr>
+                            <td class="align-middle">
+                                #{doadorNome doador}
+                            <td class="align-middle">
+                                 #{doadorTipoS doador}#{doadorRh doador}
+                            <td class="align-middle">
+                                #{agendaHospital agenda}

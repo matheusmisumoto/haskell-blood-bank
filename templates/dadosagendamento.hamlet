@@ -1,0 +1,29 @@
+<main class="container-lg mt-5">
+    <h1 class="text-center">
+        Dados do Agendamento
+    <div class="card mt-5">
+        <div class="card-body">
+            $forall (Entity _ doador, Entity _ agenda) <- agendamento
+                <h2 class="card-title text-center mb-5">
+                    #{doadorNome doador}
+                <p>
+                    <strong>
+                        Data de coleta:
+                    #{show (agendaDtColeta agenda)}
+                <p>
+                    <strong>
+                        Ponto de coleta:
+                    #{agendaHospital agenda}
+                <hr>
+                <p>
+                    <strong>
+                        CPF:
+                    #{doadorCpf doador}
+                <p>
+                    <strong>
+                        Idade:
+                    #{doadorIdade doador} anos
+                <p>
+                    <strong>
+                        Tipo Sanguíneo:
+                    #{doadorTipoS doador}#{doadorRh doador}

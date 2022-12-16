@@ -1,0 +1,27 @@
+-- By default this file is used by `parseRoutesFile` in Foundation.hs
+-- Syntax for this file here: https://www.yesodweb.com/book/routing-and-handlers
+
+/static StaticR Static appStatic
+
+/favicon.ico FaviconR GET
+/robots.txt RobotsR GET
+
+/                                               HomeR           GET
+/cadastrardoador                                CadastrardR     GET POST
+/doadores                                       ListardR        GET
+/doador/#DoadorId                               DoadorR         GET
+/doador/#DoadorId/editar                        EditardR        GET POST
+/doador/#DoadorId/remover                       ApagardR        POST
+/agendamento/novo                               Cadastrara1R    GET POST
+/agendamento/novo/#DoadorId                     Cadastrara2R    GET POST
+/agendamentos                                   AgendamentosR   GET
+/agendamentos/#AgendaId                         AgendaR         GET
+/agendamentos/#AgendaId/#DoadorId/editar        Editara2R       GET POST
+/agendamentos/#AgendaId/apagar                  ApagarAgenR     POST
+/login                                          AutR            GET POST
+/logout                                         SairR           POST
+/admin                                          AdminR          GET
+/admin/hospitais                                ListarhR        GET
+/admin/hospital/novo                            CadastrarhR     GET POST
+/admin/hospital/#UsuarioHId/editar              EditarhR        GET POST
+/admin/hospital/#UsuarioHId/remover             ApagarhR        POST

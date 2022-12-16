@@ -1,0 +1,15 @@
+header
+    width: 100vw;
+
+main
+    flex: 1;
+
+main.container-lg, div.alert
+    max-width: 750px;
+
+.column-actions
+    max-width: 10%;
+
+.delete-button
+    display: inline;
+    margin-left: 5px;
